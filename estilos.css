@@ -1,0 +1,5 @@
+
+
+.row [class^="col"]{
+    border:violet 0.1em solid;
+}
